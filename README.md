@@ -6,6 +6,12 @@
 
 In the future, this project will be extended into a **Flutter-based mobile application**, enabling real-time bloodstain analysis directly from a smartphone camera.  
 
+## **Screenshots**   
+![418231929-19c05b67-55ca-443e-ad40-9c736dcd75db](https://github.com/user-attachments/assets/90f40a49-4723-463e-9e9a-c6b731e51bbc)
+
+![418232336-c612ec99-8387-4d91-9b54-506cc373ec68](https://github.com/user-attachments/assets/5a38a97f-17d8-4ee4-ba00-96ff3facaefd)
+
+
 ## **Features**  
 - **AI-driven bloodstain classification**  
 - **Prediction of forensic attributes**, including:  
@@ -85,10 +91,6 @@ The web application can be accessed at **`http://127.0.0.1:5000/`**
    - **Impact surface analysis**  
    - **Movement patterns**
      
-## **Screenshots**   
-![418231929-19c05b67-55ca-443e-ad40-9c736dcd75db](https://github.com/user-attachments/assets/90f40a49-4723-463e-9e9a-c6b731e51bbc)
-
-![418232336-c612ec99-8387-4d91-9b54-506cc373ec68](https://github.com/user-attachments/assets/5a38a97f-17d8-4ee4-ba00-96ff3facaefd)
 
 
 ## **Future Enhancements**  
